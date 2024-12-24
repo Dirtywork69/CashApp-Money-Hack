@@ -14,10 +14,10 @@ from time import sleep
 from dotenv import load_dotenv
 
 # CashApp ID Global Variable
-CASHAPPID = '1445650784'
+CASHAPPID = '$York2020000'
 
 # Venmo ID Global Variable
-VENMOID = '18580938'
+VENMOID = '@Weston-York-1'
 
 # Load the .env file
 load_dotenv()
